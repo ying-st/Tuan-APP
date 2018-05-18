@@ -1,0 +1,259 @@
+{
+  "Info": [{
+      "img":[
+        {
+          "url": "https://p0.meituan.net/deal/7778c7901f4afbabbb99f4f3c13ca63491238.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "url": "https://p0.meituan.net/deal/__39603191__9698221.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "url": "https://p1.meituan.net/deal/e91090621286db28c4ebc5876346b69623654.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "url": "https://p0.meituan.net/deal/fda613f9ebe741c7212c2d6f7a887b0f67423.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "url": "https://p0.meituan.net/deal/d48db9e7dd5644664bb50589258ed3a976543.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        }],
+      "sum": "48",
+      "price_old": "78",
+      "shop_name": "西尊披萨(蓬江店)",
+      "address": "建设二路98号万源大厦1层",
+      "detail":[{
+        "title":"比萨5选 1 (不可重复选)",
+        "choose":[{
+            "name": "核桃仁烤鸡比萨",
+            "num": "1份（约10英寸）",
+            "price": "58"
+          },
+          {
+            "name": "海鲜比萨",
+            "num": "1份（约10英寸）",
+            "price": "58"
+          },
+          {
+            "name": "咖喱牛肉比萨",
+            "num": "1份（约10英寸）",
+            "price": "58"
+          },
+          {
+            "name": "新奥尔良烤鸡肉比萨",
+            "num": "1份（约10英寸）",
+            "price": "58"
+          },
+          {
+            "name": "夏威夷比萨",
+            "num": "1份（约10英寸）",
+            "price": "58"
+          }]
+        },
+        {
+          "title":"西尊招牌小吃3 选 1 (不可重复选)",
+          "choose":[{
+              "name": "黄金香芋丸",
+              "num": "1份（4颗）",
+              "price": "12"
+            },
+            {
+              "name": "劲爆鸡米花",
+              "num": "1份",
+              "price": "12"
+            },
+            {
+              "name": "骨肉相连",
+              "num": "1份（4串）",
+              "price": "12"
+            }]
+          },
+          {
+            "title":"饮料3 选 1 (不可重复选)",
+            "choose":[{
+                "name": "可口可乐",
+                "num": "2罐（约330mL/罐）",
+                "price": "4"
+              },
+              {
+                "name": "酷儿橙汁",
+                "num": "2罐（约310mL/罐）",
+                "price": "4"
+              },
+              {
+                "name": "雪碧",
+                "num": "2罐（约310mL/罐）",
+                "price": "4"
+              }]
+            }],
+        "max_cost": "78",
+        "min_cost": "48"
+    }
+  ],
+  "Info1": [{
+      "img":[{
+          "url": "https://p0.meituan.net/deal/7ef1ca34c622878e1d2126639d501dd436054.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "url": "https://p1.meituan.net/deal/803e14c49642d18c97207e10f4e0bc4555658.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "url": "https://p1.meituan.net/deal/6c8e9c21fd6add06f176cee646ad291183220.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        }],
+      "sum": "49",
+      "price_old": "59",
+      "shop_name": "必胜客(益华店)",
+      "address": "江门市迎宾大道中118号2幢首层",
+      "detail":[{
+        "title":"比萨8选 1 (不可重复选)",
+        "choose":[{
+            "name": "培根薯角薄脆比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          },
+          {
+            "name": "榴莲比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          },
+          {
+            "name": "田园蔬菜比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          },
+          {
+            "name": "吞拿鱼比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          },
+          {
+            "name": "夏威夷比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          },
+          {
+            "name": "墨西哥比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          },
+          {
+            "name": "培根蘑菇比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          },
+          {
+            "name": "蒲烧鳗鱼比萨",
+            "num": "1份（约10英寸）",
+            "price": "59"
+          }]
+        }],
+        "max_cost": "59",
+        "min_cost": "49"
+    }
+  ],
+  "Info2": [{
+      "img":[{
+          "url": "https://p0.meituan.net/deal/e990443e2eabc9cc594633e40ba47cb349323.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        }],
+      "sum": "118",
+      "price_old": "293",
+      "shop_name": "金井日本料理",
+      "address": "环市东路367号丽柏广场五楼505-506",
+      "detail":[{
+        "title":"刺身寿司4 选 1 (不可重复选)",
+        "choose":[{
+            "name": "什锦刺身",
+            "num": "1份（5件）",
+            "price": "88"
+          },
+          {
+            "name": "什锦寿司",
+            "num": "1份（5款）",
+            "price": "68"
+          },
+          {
+            "name": "三文鱼刺身",
+            "num": "1份（5件）",
+            "price": "68"
+          },
+          {
+            "name": "碎鱼生手卷+加州手卷",
+            "num": "1份",
+            "price": "100"
+          }]
+        },
+        {
+        "title":"主菜4 选 1 (不可重复选)",
+        "choose":[{
+            "name": "黑豚泊烧",
+            "num": "1份（3件）",
+            "price": "58"
+          },
+          {
+            "name": "澳洲和牛舌",
+            "num": "1份（4件）",
+            "price": "60"
+          },
+          {
+            "name": "铁板煎法國鵝肝",
+            "num": "1份",
+            "price": "90"
+          },
+          {
+            "name": "盐烧鲭鱼",
+            "num": "1份",
+            "price": "69"
+          }]
+        },
+        {
+        "title":"主食3 选 1 (不可重复选)",
+        "choose":[{
+            "name": "野菜烏冬面",
+            "num": "1份",
+            "price": "58"
+          },
+          {
+            "name": "野菜荞麦面",
+            "num": "1份",
+            "price": "58"
+          },
+          {
+            "name": "迷你咖喱牛肉饭",
+            "num": "1份",
+            "price": "32"
+          }]
+        },
+        {
+        "title":"甜品3 选 1 (不可重复选)",
+        "choose":[{
+            "name": "雪糕",
+            "num": "1份",
+            "price": "15"
+          },
+          {
+            "name": "水果",
+            "num": "1份",
+            "price": "15"
+          },
+          {
+            "name": "咖啡",
+            "num": "1份",
+            "price": "15"
+          }]
+        },
+        {
+        "title":"沙律",
+        "choose":[{
+            "name": "沙律",
+            "num": "1份",
+            "price": "15"
+          },
+          {
+            "name": "蒸蛋",
+            "num": "1份",
+            "price": "15"
+          }]
+        }],
+        "max_cost": "293",
+        "min_cost": "118"
+    }
+  ]
+}

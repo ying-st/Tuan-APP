@@ -1,0 +1,52 @@
+{
+  "title": "2018",
+  "Info": [{
+      "month":"1月",
+      "value": 30
+    },
+    {
+      "month":"2月",
+      "value": 16
+    },
+    {
+      "month":"3月",
+      "value": 58
+    },
+    {
+      "month":"4月",
+      "value": 48
+    },
+    {
+      "month":"5月",
+      "value": 36
+    },
+    {
+      "month":"6月",
+      "value": 29
+    },
+    {
+      "month":"7月",
+      "value": 42
+    },
+    {
+      "month":"8月",
+      "value": 46
+    },
+    {
+      "month":"9月",
+      "value": 50
+    },
+    {
+      "month":"10月",
+      "value": 47
+    },
+    {
+      "month":"11月",
+      "value": 52
+    },
+    {
+      "month":"12月",
+      "value": 50
+    }
+  ]
+}

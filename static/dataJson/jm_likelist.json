@@ -1,0 +1,104 @@
+{
+  "likeData":[
+    {
+        "id": 2,
+        "sort": "披萨",
+    	"l_img":"//p1.meituan.net/deal/db02b1d271effbf04629b134cd9fdfd653375.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"极盛寿司",
+        "shop_name_sub":"[地王] 人气单人餐，提供免费WiFi",
+        "price_current":"28",
+        "price_old": "40",
+        "sale_desc": "54"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p1.meituan.net/deal/b7b6b2bd68a02c598379b0cafe61d4e776520.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"至尊比萨",
+        "shop_name_sub":"[万达商场] 榴莲比萨1份（10寸）",
+        "price_current":"33",
+        "price_old": "56",
+        "sale_desc": "37"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p1.meituan.net/deal/dcc611282f130e4380d15c1638eaa95222006.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"贡茶",
+        "shop_name_sub":"[地王] 饮品5选1，提供免费WiFi",
+        "price_current":"10",
+        "price_old": "15",
+        "sale_desc": "385"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/02fa5d2bb546cec3d18d9d6d58fd5d6560018.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"华仁五洲国际自助美食汇",
+        "shop_name_sub":"[地王] 晚市自助餐",
+        "price_current":"58",
+        "price_old": "99",
+        "sale_desc": "5144"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/131061da7e9cc779b740293aa59cd52a466794.png.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"百味密码",
+        "shop_name_sub":"炒酸奶4选1，提供免费WiFi",
+        "price_current":"12.6",
+        "price_old": "18",
+        "sale_desc": "1143"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p1.meituan.net/deal/db02b1d271effbf04629b134cd9fdfd653375.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"极盛寿司",
+        "shop_name_sub":"[地王] 人气单人餐，提供免费WiFi",
+        "price_current":"28",
+        "price_old": "40",
+        "sale_desc": "54"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p1.meituan.net/deal/b7b6b2bd68a02c598379b0cafe61d4e776520.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"至尊比萨",
+        "shop_name_sub":"[万达商场] 榴莲比萨1份（10寸）",
+        "price_current":"33",
+        "price_old": "56",
+        "sale_desc": "37"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p1.meituan.net/deal/dcc611282f130e4380d15c1638eaa95222006.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"贡茶",
+        "shop_name_sub":"[地王] 饮品5选1，提供免费WiFi",
+        "price_current":"10",
+        "price_old": "15",
+        "sale_desc": "385"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/02fa5d2bb546cec3d18d9d6d58fd5d6560018.jpg.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"华仁五洲国际自助美食汇",
+        "shop_name_sub":"[地王] 晚市自助餐",
+        "price_current":"58",
+        "price_old": "99",
+        "sale_desc": "5144"
+    },
+    {
+        "id": 2,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/131061da7e9cc779b740293aa59cd52a466794.png.webp@180w_180h_1e_1c_1l_80q|watermark=0",
+        "goodname":"百味密码",
+        "shop_name_sub":"炒酸奶4选1，提供免费WiFi",
+        "price_current":"12.6",
+        "price_old": "18",
+        "sale_desc": "1143"
+    }
+   ]
+}

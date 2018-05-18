@@ -1,0 +1,93 @@
+{
+  "Info": [{
+      "id": 1,
+      "l_img": "https://img.meituan.net/msmerchant/66c99952b065e679f1770eebfe197161247897.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "深夜厨房",
+      "shop_name_sub": "98元 深夜凉夏伴你吃",
+      "price_current": "98",
+      "price_old": "108",
+      "sale_desc": "6143"
+    },
+    {
+      "id": 2,
+      "l_img": "https://img.meituan.net/msmerchant/c38b0ed5c81fe7f5956eeb625c9ebc51151235.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "ZENHO天和割烹料理",
+      "shop_name_sub": "仅售388元！最高价值454元的双人午市套餐，有赠品，提供免费WiFi。",
+      "price_current": "388",
+      "price_old": "454",
+      "sale_desc": "2565"
+    },
+    {
+      "id": 1,
+      "l_img": "https://img.meituan.net/msmerchant/7325b0e44d88051c47401243d996e514239984.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "极炙·极上和牛双人套餐",
+      "shop_name_sub": "仅售399元！最高价值713元的极上和牛双人套餐，提供免费WiFi。",
+      "price_current": "399",
+      "price_old": "713",
+      "sale_desc": "385"
+    },
+    {
+      "id": 2,
+      "l_img": "https://img.meituan.net/msmerchant/342e90dd669b844d762c2b49a1afb859166603.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "喜营·工匠粤菜双人餐",
+      "shop_name_sub": "仅售106元！最高价值192元的双人套餐，提供免费WiFi。",
+      "price_current": "106",
+      "price_old": "192",
+      "sale_desc": "2396"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p0.meituan.net/msmerchant/17d0e2680010c650ef97ef4f00bac91f3081104.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "博多天妇罗泰",
+      "shop_name_sub": "仅售19元！最高价值28元的套餐4选1，提供免费WiFi。",
+      "price_current": "19",
+      "price_old": "28",
+      "sale_desc": "14753"
+    },
+    {
+      "id": 1,
+      "l_img": "https://img.meituan.net/msmerchant/66c99952b065e679f1770eebfe197161247897.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "深夜厨房",
+      "shop_name_sub": "98元 深夜凉夏伴你吃",
+      "price_current": "98",
+      "price_old": "108",
+      "sale_desc": "6143"
+    },
+    {
+      "id": 2,
+      "l_img": "https://img.meituan.net/msmerchant/c38b0ed5c81fe7f5956eeb625c9ebc51151235.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "ZENHO天和割烹料理",
+      "shop_name_sub": "仅售388元！最高价值454元的双人午市套餐，有赠品，提供免费WiFi。",
+      "price_current": "388",
+      "price_old": "454",
+      "sale_desc": "2565"
+    },
+    {
+      "id": 1,
+      "l_img": "https://img.meituan.net/msmerchant/7325b0e44d88051c47401243d996e514239984.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "极炙·极上和牛双人套餐",
+      "shop_name_sub": "仅售399元！最高价值713元的极上和牛双人套餐，提供免费WiFi。",
+      "price_current": "399",
+      "price_old": "713",
+      "sale_desc": "385"
+    },
+    {
+      "id": 2,
+      "l_img": "https://img.meituan.net/msmerchant/342e90dd669b844d762c2b49a1afb859166603.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "喜营·工匠粤菜双人餐",
+      "shop_name_sub": "仅售106元！最高价值192元的双人套餐，提供免费WiFi。",
+      "price_current": "106",
+      "price_old": "192",
+      "sale_desc": "2396"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p0.meituan.net/msmerchant/17d0e2680010c650ef97ef4f00bac91f3081104.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "博多天妇罗泰",
+      "shop_name_sub": "仅售19元！最高价值28元的套餐4选1，提供免费WiFi。",
+      "price_current": "19",
+      "price_old": "28",
+      "sale_desc": "14753"
+    }
+  ]
+}

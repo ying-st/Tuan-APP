@@ -1,0 +1,184 @@
+{
+  "披萨": [{
+      "id": 1,
+      "l_img": "https://p1.meituan.net/deal/f4fa2cc293fcd9eda6591c67af938be746535.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "西尊比萨双人餐",
+      "shop_name_sub": "仅售48元！最高价值78元的十英寸比萨双人餐。",
+      "price_current": "48",
+      "price_old": "78",
+      "sale_desc": "6143"
+    },
+    {
+      "id": 2,
+      "l_img": "https://img.meituan.net/msmerchant/2c8aac80641c6bc5b5c04a086123e3a5997935.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "必胜客披萨套餐",
+      "shop_name_sub": "仅售49元！价值59元培根薯角薄脆比萨尝鲜1份，提供免费WiFi。",
+      "price_current": "49",
+      "price_old": "59",
+      "sale_desc": "3159"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p1.meituan.net/deal/59ea519d345ee1ef34658ba11dee5e7f1016183.jpeg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "烈焰披萨套餐",
+      "shop_name_sub": "仅售40.8元！价值59元的披萨15选1，建议2人使用，提供免费WiFi。",
+      "price_current": "40.8",
+      "price_old": "59",
+      "sale_desc": "385"
+    },
+    {
+      "id": 2,
+      "l_img": "https://p1.meituan.net/deal/b7b6b2bd68a02c598379b0cafe61d4e776520.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "至尊比萨双人套餐",
+      "shop_name_sub": "仅售39.9元！价值77元的超值比萨2人套餐，提供免费WiFi。",
+      "price_current": "39.9",
+      "price_old": "77",
+      "sale_desc": "396"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p1.meituan.net/deal/ca9df0bcc885ae086ecbae6caa9747aa83630.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "小吉同学榴莲双拼套餐",
+      "shop_name_sub": "仅售78元！价值130元的榴莲双拼套餐，建议2-3人使用，提供免费WiFi，提供免费停车位。",
+      "price_current": "78",
+      "price_old": "130",
+      "sale_desc": "14753"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p1.meituan.net/deal/f4fa2cc293fcd9eda6591c67af938be746535.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "西尊比萨双人餐",
+      "shop_name_sub": "仅售48元！最高价值78元的十英寸比萨双人餐。",
+      "price_current": "48",
+      "price_old": "78",
+      "sale_desc": "6143"
+    },
+    {
+      "id": 2,
+      "l_img": "//p0.meituan.net/deal/7ef1ca34c622878e1d2126639d501dd436054.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+      "goodname": "必胜客披萨套餐",
+      "shop_name_sub": "仅售49元！价值59元培根薯角薄脆比萨尝鲜1份，提供免费WiFi。",
+      "price_current": "49",
+      "price_old": "59",
+      "sale_desc": "3159"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p1.meituan.net/deal/59ea519d345ee1ef34658ba11dee5e7f1016183.jpeg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "烈焰披萨套餐",
+      "shop_name_sub": "仅售40.8元！价值59元的披萨15选1，建议2人使用，提供免费WiFi。",
+      "price_current": "40.8",
+      "price_old": "59",
+      "sale_desc": "385"
+    },
+    {
+      "id": 2,
+      "l_img": "https://p1.meituan.net/deal/b7b6b2bd68a02c598379b0cafe61d4e776520.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "至尊比萨双人套餐",
+      "shop_name_sub": "仅售39.9元！价值77元的超值比萨2人套餐，提供免费WiFi。",
+      "price_current": "39.9",
+      "price_old": "77",
+      "sale_desc": "396"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p1.meituan.net/deal/ca9df0bcc885ae086ecbae6caa9747aa83630.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "小吉同学榴莲双拼套餐",
+      "shop_name_sub": "仅售78元！价值130元的榴莲双拼套餐，建议2-3人使用，提供免费WiFi，提供免费停车位。",
+      "price_current": "78",
+      "price_old": "130",
+      "sale_desc": "14753"
+    }
+  ],
+  "寿司": [{
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/968ec5bc181cf1b99ecf54e682bb4580208723.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "金井精选午餐套餐",
+      "shop_name_sub": "仅售118元！最高价值293元的金井精选午餐套餐，建议单人使用，提供免费WiFi。",
+      "price_current": "118",
+      "price_old": "293",
+      "sale_desc": "22783"
+    },
+    {
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/5e934829fd112d949e3ba6bbcc90a860169539.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "井弘日本料理",
+      "shop_name_sub": "仅售148元！最高价值210元的双人新品套餐，提供免费WiFi。",
+      "price_current": "148",
+      "price_old": "210",
+      "sale_desc": "2673"
+    },
+    {
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/579068175439af66291d04a05244a6331971921.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "精选单人餐1份",
+      "shop_name_sub": "仅售198元！价值350元的精选单人餐1份，提供免费WiFi。",
+      "price_current": "198",
+      "price_old": "350",
+      "sale_desc": "3285"
+    },
+    {
+      "id": 3,
+      "l_img": "https://p0.meituan.net/deal/5b8d79024a1fb80e93a5d5a9e9485a2f32546.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "别院寿司日本料理",
+      "shop_name_sub": "仅售108元！价值198元的双人超值套餐，提供免费WiFi。",
+      "price_current": "108",
+      "price_old": "198",
+      "sale_desc": "2396"
+    },
+    {
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/23ac611273b0d53613a5fcb2aae1277c1015650.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "赤木寿司(北京路店)",
+      "shop_name_sub": "仅售39元！价值48元的火灸三色虾刺身丼1份，提供免费WiFi。",
+      "price_current": "39",
+      "price_old": "48",
+      "sale_desc": "14753"
+    },
+    {
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/968ec5bc181cf1b99ecf54e682bb4580208723.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "金井精选午餐套餐",
+      "shop_name_sub": "仅售118元！最高价值293元的金井精选午餐套餐，建议单人使用，提供免费WiFi。",
+      "price_current": "118",
+      "price_old": "293",
+      "sale_desc": "22783"
+    },
+    {
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/5e934829fd112d949e3ba6bbcc90a860169539.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "井弘日本料理",
+      "shop_name_sub": "仅售148元！最高价值210元的双人新品套餐，提供免费WiFi。",
+      "price_current": "148",
+      "price_old": "210",
+      "sale_desc": "2673"
+    },
+    {
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/579068175439af66291d04a05244a6331971921.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "精选单人餐1份",
+      "shop_name_sub": "仅售198元！价值350元的精选单人餐1份，提供免费WiFi。",
+      "price_current": "198",
+      "price_old": "350",
+      "sale_desc": "3285"
+    },
+    {
+      "id": 3,
+      "l_img": "https://p0.meituan.net/deal/5b8d79024a1fb80e93a5d5a9e9485a2f32546.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "别院寿司日本料理",
+      "shop_name_sub": "仅售108元！价值198元的双人超值套餐，提供免费WiFi。",
+      "price_current": "108",
+      "price_old": "198",
+      "sale_desc": "2396"
+    },
+    {
+      "id": 3,
+      "l_img": "https://img.meituan.net/msmerchant/23ac611273b0d53613a5fcb2aae1277c1015650.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "赤木寿司(北京路店)",
+      "shop_name_sub": "仅售39元！价值48元的火灸三色虾刺身丼1份，提供免费WiFi。",
+      "price_current": "39",
+      "price_old": "48",
+      "sale_desc": "14753"
+    }
+  ]
+}

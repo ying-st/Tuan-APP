@@ -1,0 +1,93 @@
+{
+  "Info": [{
+      "id": 1,
+      "l_img": "https://p0.meituan.net/apiback/c505b74afc5affb6ce47dc1db67be49d247898.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "活力无限KTV(北京路店)",
+      "shop_name_sub": "9.9元 单人周一至周日11:00-17:00任选3小时欢唱套餐",
+      "price_current": "9.9",
+      "price_old": "19.9",
+      "sale_desc": "23244"
+    },
+    {
+      "id": 2,
+      "l_img": "https://vfile.meituan.net/joymerchant/-3537764692122479508-834946-1517204346997.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "浅水湾御方单人足疗套餐",
+      "shop_name_sub": "仅售118元，价值362元浅水湾御方单人足疗套餐，免费WiFi！",
+      "price_current": "118",
+      "price_old": "362",
+      "sale_desc": "2122"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p0.meituan.net/apiback/4b6d6c007e715695a3ec8c16349758d1109719.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "K歌王(天河东路店)",
+      "shop_name_sub": "仅售55元，价值65元周一至周日 11:00-20:30单人欢唱3小时+自助餐！免费WiFi！",
+      "price_current": "55",
+      "price_old": "65",
+      "sale_desc": "3385"
+    },
+    {
+      "id": 2,
+      "l_img": "https://p0.meituan.net/joymerchant/4344960096651719587-202510-1493279056124.JPG%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "汉景银矿湾国际水疗会",
+      "shop_name_sub": "仅售239元，价值344元24小时净桑+自助餐休闲套餐，节假日通用，免费WiFi！免费停车位！",
+      "price_current": "239",
+      "price_old": "344",
+      "sale_desc": "396"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p1.meituan.net/dpmerchantalbum/02e843ea4fbacb9b1e2b6d2ee6c3e1631357009.png%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "大世界保龄球馆双人套餐",
+      "shop_name_sub": "仅售48元，价值98元双人保龄球套餐，节假日通用，男女通用！",
+      "price_current": "48",
+      "price_old": "98",
+      "sale_desc": "14753"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p0.meituan.net/apiback/c505b74afc5affb6ce47dc1db67be49d247898.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "活力无限KTV(北京路店)",
+      "shop_name_sub": "9.9元 单人周一至周日11:00-17:00任选3小时欢唱套餐",
+      "price_current": "9.9",
+      "price_old": "19.9",
+      "sale_desc": "23244"
+    },
+    {
+      "id": 2,
+      "l_img": "https://vfile.meituan.net/joymerchant/-3537764692122479508-834946-1517204346997.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "浅水湾御方单人足疗套餐",
+      "shop_name_sub": "仅售118元，价值362元浅水湾御方单人足疗套餐，免费WiFi！",
+      "price_current": "118",
+      "price_old": "362",
+      "sale_desc": "2122"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p0.meituan.net/apiback/4b6d6c007e715695a3ec8c16349758d1109719.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "K歌王(天河东路店)",
+      "shop_name_sub": "仅售55元，价值65元周一至周日 11:00-20:30单人欢唱3小时+自助餐！免费WiFi！",
+      "price_current": "55",
+      "price_old": "65",
+      "sale_desc": "3385"
+    },
+    {
+      "id": 2,
+      "l_img": "https://p0.meituan.net/joymerchant/4344960096651719587-202510-1493279056124.JPG%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "汉景银矿湾国际水疗会",
+      "shop_name_sub": "仅售239元，价值344元24小时净桑+自助餐休闲套餐，节假日通用，免费WiFi！免费停车位！",
+      "price_current": "239",
+      "price_old": "344",
+      "sale_desc": "396"
+    },
+    {
+      "id": 1,
+      "l_img": "https://p1.meituan.net/dpmerchantalbum/02e843ea4fbacb9b1e2b6d2ee6c3e1631357009.png%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+      "goodname": "大世界保龄球馆双人套餐",
+      "shop_name_sub": "仅售48元，价值98元双人保龄球套餐，节假日通用，男女通用！",
+      "price_current": "48",
+      "price_old": "98",
+      "sale_desc": "14753"
+    }
+  ]
+}

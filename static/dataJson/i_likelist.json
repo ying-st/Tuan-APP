@@ -1,0 +1,104 @@
+{
+  "likeData":[
+    {
+        "id": 1,
+        "sort": "披萨",
+    	"l_img":"//p0.meituan.net/deal/e90fe9ffc3df8899daecfd119b562002155580.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"發囍烧味●发喜烧味",
+        "shop_name_sub":"[江南西] 饮品7选1，提供免费WiFi",
+        "price_current":"1",
+        "price_old": "16",
+        "sale_desc": "1143"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/fd0ce2fd3a85aa113ab251c456deb59598470.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"Pelicana百利家炸鸡",
+        "shop_name_sub":"[9店通用] 摇滚三宝1份，提供免费WiFi",
+        "price_current":"9.8",
+        "price_old": "12",
+        "sale_desc": "4159"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p1.meituan.net/dpdeal/5dfdb2d781f792999cd22fd42f48a03b783643.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"第二十一中学游泳池羽毛球",
+        "shop_name_sub":"[环市东] 低至6.0折游泳成人单次 ",
+        "price_current":"18",
+        "price_old": "26",
+        "sale_desc": "385"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/dpdeal/8a54092ee414d55a178f38b2b3ad4cc485121.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"维也纳KTV",
+        "shop_name_sub":"[大沙地] 低至2.3折周一到周日10:00—19:00任选4小时欢唱单人套餐 ",
+        "price_current":"8.8",
+        "price_old": "38",
+        "sale_desc": "396"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/e4a96cf21a0ef4672c7f5bb5ca6cca5950094.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"稻香酒家",
+        "shop_name_sub":"[12店通用] 低至0.1折香鹅脆鱼锅套餐 ",
+        "price_current":"1",
+        "price_old": "124",
+        "sale_desc": "14753"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/e90fe9ffc3df8899daecfd119b562002155580.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"發囍烧味●发喜烧味",
+        "shop_name_sub":"[江南西] 饮品7选1，提供免费WiFi",
+        "price_current":"1",
+        "price_old": "16",
+        "sale_desc": "1143"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/fd0ce2fd3a85aa113ab251c456deb59598470.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"Pelicana百利家炸鸡",
+        "shop_name_sub":"[9店通用] 摇滚三宝1份，提供免费WiFi",
+        "price_current":"9.8",
+        "price_old": "12",
+        "sale_desc": "4159"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p1.meituan.net/dpdeal/5dfdb2d781f792999cd22fd42f48a03b783643.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"第二十一中学游泳池羽毛球",
+        "shop_name_sub":"[环市东] 低至6.0折游泳成人单次 ",
+        "price_current":"18",
+        "price_old": "26",
+        "sale_desc": "385"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/dpdeal/8a54092ee414d55a178f38b2b3ad4cc485121.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"维也纳KTV",
+        "shop_name_sub":"[大沙地] 低至2.3折周一到周日10:00—19:00任选4小时欢唱单人套餐 ",
+        "price_current":"8.8",
+        "price_old": "38",
+        "sale_desc": "396"
+    },
+    {
+        "id": 1,
+        "sort": "披萨",
+        "l_img":"//p0.meituan.net/deal/e4a96cf21a0ef4672c7f5bb5ca6cca5950094.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "goodname":"稻香酒家",
+        "shop_name_sub":"[12店通用] 低至0.1折香鹅脆鱼锅套餐 ",
+        "price_current":"1",
+        "price_old": "124",
+        "sale_desc": "14753"
+    }
+   ]
+}
